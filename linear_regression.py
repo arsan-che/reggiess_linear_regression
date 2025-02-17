@@ -18,3 +18,6 @@ print(calculate_error(1, 0, (3, 3)))
 print(calculate_error(1, 0, (3, 4)))
 print(calculate_error(1, -1, (3, 3)))
 print(calculate_error(-1, 1, (3, 3)))
+
+#added some datapoints
+datapoints = [(1, 2), (2, 0), (3, 4), (4, 4), (5, 3)]
